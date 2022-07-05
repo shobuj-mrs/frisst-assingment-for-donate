@@ -1,0 +1,64 @@
+body {
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.top-banner {
+    text-align: center;
+    padding-top: 35px;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    background-position: center;
+}
+
+.top-banner-text {
+    color: white;
+}
+
+.btn {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    padding-top: px;
+}
+
+.donate-today {
+    text-align: center;
+
+}
+
+.amount {
+    display: flex;
+    justify-content: space-between;
+    border: 0px;
+    text-align: center;
+    border-radius: 5px;
+
+
+
+}
+
+.amount div {
+    margin: 5px;
+    background-color: rgb(248, 226, 226);
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-top: 10%;
+    margin-left: 5%;
+}
+
+.half-width img {
+    width: 75%;
+}

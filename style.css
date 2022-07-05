@@ -62,3 +62,14 @@ body {
 .half-width img {
     width: 75%;
 }
+
+.footer-text {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
